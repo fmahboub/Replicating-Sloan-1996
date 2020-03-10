@@ -1,1 +1,1 @@
-# Replicating-Sloan-1996-
+# Replicating-Sloan-1996
