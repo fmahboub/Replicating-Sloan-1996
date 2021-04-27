@@ -1,7 +1,7 @@
 # Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings?
 ## Replicating (Sloan 1996)
 
-Using data from Wharton Research Data Services (WRDS) we recreate the findings of Richard G. Sloan (Jul., 1996) and confirm that, in the second half of the 20th century, "stock prices reflect information about future earnings contained in the accrual and cash flow components of current earnings".
+Using data from Wharton Research Data Services (WRDS) we recreate the findings of Richard G. Sloan (Jul., 1996) and confirm that, in the second half of the 20th century, stock prices did not reflect information about future earnings contained in the accrual component of current earnings, thus identifying a market anomaly. 
 
 By extending the analysis to the previous decade, we see that the Accruals Annomaly did not persist into the present day.
 
