@@ -8,7 +8,7 @@ By extending the analysis to the previous decade, we see that the Accruals Annom
 ### Symmetry Observed in Top Decile vs Bottom Decile Grouped by Overall Earnings
 ![plot](High_vs_Low_earnings.png)
 
-### Asymmetry Observed in Top Decile vs Bottom Decile Grouped by Accruals Earnings
+### Asymmetry Observed in Top Decile vs Bottom Decile Grouped by Accruals
 ![plot](High_vs_low_accruals.png)
 
 ### Original Paper
