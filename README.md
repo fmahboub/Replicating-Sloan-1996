@@ -9,7 +9,7 @@ By extending the analysis to the previous decade, we see that the Accruals Annom
 ![plot](High_vs_Low_earnings.png)
 
 ### Asymmetry Observed in Top Decile vs Bottom Decile Grouped by Accruals Earnings
-![plot](High_vs_Low_accruals.png)
+![plot](High_vs_low_accruals.png)
 
 ### Original Paper
 https://econ.au.dk/fileadmin/Economics_Business/Education/Summer_University_2012/6308_Advanced_Financial_Accounting/Advanced_Financial_Accounting/2/Sloan_1996_TAR.pdf
